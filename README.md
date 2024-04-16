@@ -1,6 +1,6 @@
 # Dance website , hope you enjoy!
 
-![project view](https://github.com/Alireza-foroutan/First-project/assets/166135683/36a44616-0859-4957-a573-3163dac2850a)
+![project view](https://github.com/Alireza-foroutan/Dance/assets/166135683/b3fdcdb8-faf6-40b2-8240-0e4afa738cdb)
 
 - [Demo Project](https://github.com/Alireza-foroutan/Dance/assets/166135683/b3fdcdb8-faf6-40b2-8240-0e4afa738cdb)
 
