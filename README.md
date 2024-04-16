@@ -2,7 +2,7 @@
 
 ![project view](https://github.com/Alireza-foroutan/Dance/assets/166135683/b3fdcdb8-faf6-40b2-8240-0e4afa738cdb)
 
-- [Demo Project](https://github.com/Alireza-foroutan/Dance/assets/166135683/b3fdcdb8-faf6-40b2-8240-0e4afa738cdb)
+- [Demo Project](https://alireza-foroutan.github.io/Dance/)
 
 - Developed by Alireza Foroutan
 
